@@ -1,4 +1,5 @@
-import react from "react";
+import React from "react";
+import AboutMe from "./Pages/AboutMe"
 // Using packages 
 // react-router-dom 
 // framer-motion 
@@ -7,7 +8,7 @@ import react from "react";
 function App() {
   return (
     <div className="className">
-      <h1>Film</h1>
+      <AboutMe></AboutMe>
     </div>
   );
 }
