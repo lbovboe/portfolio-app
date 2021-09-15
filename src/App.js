@@ -1,6 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
-
+import react from "react";
+// Using packages 
+// react-router-dom 
+// framer-motion 
+// react-intersection-observer 
+// styled-components
 function App() {
   return (
     <div className="className">
